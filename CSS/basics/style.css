@@ -1,0 +1,23 @@
+h1 {
+    font-family: verdana, arial;
+    border:  3px solid goldenrod;
+    border-radius: 20px;
+    text-shadow: 3px 3px 5px red;  
+}
+
+p {
+    font-style: "lucida console", "courier new";
+    font-size: 1 em;
+    font-weight: bold;
+    font-style: normal;
+    border-top: 2px dashed blue;
+    border-bottom: 3px solid red;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: wheat;
+    box-shadow: 3px 3px 5px  blue;
+}
+
