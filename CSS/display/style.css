@@ -1,0 +1,22 @@
+div {
+    margin: 0;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+ 
+}
+
+span {
+    background-color: rgb(126, 126, 188);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+
+}
+
+p {
+    display: inline-block;
+    background-color: bisque;   
+}
